@@ -1,0 +1,13 @@
+name = "ProbeJS"
+filename = "probejs-2.9.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a7bd984f978d76638a00abf646dab9eb91a0338"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3797962
+project-id = 585406

@@ -1,0 +1,13 @@
+name = "Create Cafe"
+filename = "createcafe-1.4-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee00205d7a1280732e0c47b63a2ee5b19dc7e0a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3803034
+project-id = 542235

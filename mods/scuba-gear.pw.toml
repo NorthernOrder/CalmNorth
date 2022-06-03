@@ -1,0 +1,13 @@
+name = "Scuba Gear"
+filename = "scuba_gear-1.18.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0b96bd5703aa6594f1ecfc1e8d0bbfe23019688"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3680208
+project-id = 399090

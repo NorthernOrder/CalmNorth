@@ -1,0 +1,13 @@
+name = "Schools of Magic: Second Semester"
+filename = "SoMSecondSemester1.18.2-3.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "920f4e0609b33dd01428640b02c20c2b3e400445"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3785984
+project-id = 491624

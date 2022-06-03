@@ -1,0 +1,13 @@
+name = "Calm North"
+author = "Ozoku"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7ada68596f907f6e2951682ff7f4f6886ec90c23bf2dc4a9595a9e7b9b461b12"
+
+[versions]
+forge = "40.1.31"
+minecraft = "1.18.2"

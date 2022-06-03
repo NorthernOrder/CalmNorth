@@ -1,0 +1,13 @@
+name = "LaserIO"
+filename = "laserio-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "681d735a6646ab3ff453ad8852dde11f4ed41f3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807604
+project-id = 626839

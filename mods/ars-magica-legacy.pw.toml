@@ -1,0 +1,13 @@
+name = "Ars Magica: Legacy"
+filename = "arsmagicalegacy-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8afc59a73d5ef15755589a13ab42100543d65c3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3803941
+project-id = 350734

@@ -1,0 +1,13 @@
+name = "Smarter Farmers (farmers replant)"
+filename = "smarterfarmers-1.18.2-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2296ef246a68adb70d1b54ad3a53c8ae0b15085a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3766246
+project-id = 491290

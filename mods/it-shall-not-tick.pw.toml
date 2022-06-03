@@ -1,0 +1,13 @@
+name = "It Shall Not Tick (ISNT)"
+filename = "ItShallNotTick-1.0.20-build.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be816f119547f44a95c77dffe7a52ea7c75b55e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3794231
+project-id = 619355

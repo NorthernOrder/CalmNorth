@@ -1,0 +1,13 @@
+name = "Origins (Forge)"
+filename = "Origins-1.18.2-1.4.1.1-unified.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8263b9b931160eb91833a271cd8f3e2b7e76cf26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3761477
+project-id = 474438

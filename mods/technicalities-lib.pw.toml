@@ -1,0 +1,13 @@
+name = "Technicalities: Lib (TKLib)"
+filename = "TKLib-0.0.17+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "595525d660ee233005831cfe5b3751e1e0f66854"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807862
+project-id = 566563
