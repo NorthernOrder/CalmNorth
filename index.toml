@@ -467,12 +467,12 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-forge.pw.toml"
-hash = "3f2660fd2fb03d8bf677c932d6f8a630f5fa4df17bf9f88b764bbe362a0c0b3d"
+hash = "553ea26fa06c17148f9906484f987dbb38846e26de1fad7110319ee033ce75dc"
 metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "4480257d2c5534c81b026da8f15238ec5f368100f8f6357cdff7ef153e94752c"
+hash = "71b789eedc06692c39f182498cd36e081bb8fad0f6b8b0b3e2b41bdaa1813cef"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "9ce5bfb5510be8ea3374cfb44da1ed4ac5ef3b3d65d716d02fd49c26d1a9602b"
+hash = "e1f1f99dfda551faf2a158a35eed117ef3fa9e8b2071e32081d23c2f012ed904"
 metafile = true
 
 [[files]]
@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "f32312d344829baacfe0e43e1182e060a10113cd70f5c5b0ac52ff15f5cd6efc"
+hash = "ff6bc0da21e79b570d74eebe1ffc7b7e2aecc09cb11feced0514f536b0fab251"
 metafile = true
 
 [[files]]
