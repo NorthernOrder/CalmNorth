@@ -1,13 +1,13 @@
 name = "Origins: Classes (Forge)"
-filename = "origins-classes-forge-1.1.5.jar"
+filename = "origins-classes-forge-1.1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bd6ca22a686636755a3029a3cea7f4d3aae5281d"
+hash = "99bd14155d505a3fb7c334fced560ea2020c0d26"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3814238
+file-id = 3814846
 project-id = 610127
