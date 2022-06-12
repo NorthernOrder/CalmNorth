@@ -916,11 +916,6 @@ hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "060c172189a1addc9fe72afa684dcacd3cc25eb2e5edff4ea84a0e3a21d50293"
-metafile = true
-
-[[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "a895df4e74926896bb9bebedaf1996037d1f155dddfd7060e5bb51b90808e17c"
 metafile = true
