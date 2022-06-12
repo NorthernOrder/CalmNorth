@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
+hash = "3ca8d576e3f116a3cebb005527caf53b07125ea031cb8c58445bea129b7b9459"
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-advanced-peripherals-compat.pw.toml"
 hash = "8f693bccea70371254ef5c8152fceb32794fba3f2ccfb1866229022688b387a5"
 metafile = true
@@ -48,11 +52,6 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/repurposed-structures-pneumaticcraft-repressurized.pw.toml"
 hash = "b2c740490eeb25c70f483d62fc33297c6fb64ba519ff3ee393e4b4fb03443119"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/towers-of-the-wild-reworked-datapack.pw.toml"
-hash = "921eca940e9aaa5b35e2b8d84efe68deaf502e834b7bf2a637645666d35934b7"
 metafile = true
 
 [[files]]
