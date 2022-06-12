@@ -509,11 +509,6 @@ hash = "a7ebd50a847a23bd54c2d5bb2ee0dceb8902d2089e7ba133126522b0e7c9887f"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks-compat.pw.toml"
-hash = "82336831c90e797799f1bd207bdf66f82aaa51b6f32b24fea054bf25126a15af"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "ebc7fe70140c268917e096a5aefcdd4981378eef19e1db5a6381ae6e75486aff"
 metafile = true
@@ -926,11 +921,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "a180dc06ce5b459592479f30f54745f44e3c9e7362687374e407a5362c594da0"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
-hash = "0d6a760d7f219cbd7a27669d4bafaf6c65d1a5702a603a18c005dadd090363a4"
 metafile = true
 
 [[files]]
@@ -1436,6 +1426,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9743690593e5dabcd360212cce9fb68cd3dbb4d18dbce710e5f79cea631e8ea0"
 metafile = true
 
 [[files]]
