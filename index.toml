@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/jei-client.toml"
-hash = "5ed3475ce86307a27a55a66effd3da8862e35a959835fd9b0688a448312cdc17"
-
-[[files]]
 file = "config/paxi/datapacks/repurposed-structures-advanced-peripherals-compat.pw.toml"
 hash = "8f693bccea70371254ef5c8152fceb32794fba3f2ccfb1866229022688b387a5"
 metafile = true
@@ -570,11 +566,6 @@ hash = "28d07ef42a05d8481367aa90562fa67f7b1ef6c3fd8060052fe89f3a6efacd9b"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-asset-generator.pw.toml"
-hash = "1c771c4d65538d8e5d667915e88e9a0e7cd8ad385fb04c2af689cfd6acb58e46"
-metafile = true
-
-[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "a8f42f89f5e410c6cb3437955f0d34f4651efd30f7ee08b6ac19fbd20d6f08ec"
 metafile = true
@@ -600,11 +591,6 @@ hash = "55aaba0402b8f313db8981688e501e03bea195cef866b05bd0f04fb89feb8028"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-mushrooms.pw.toml"
-hash = "b4c753205297ef9307bc33ef12f42b3730e942535227f4e7a6058130fb6684a8"
-metafile = true
-
-[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "b43ec67583b4c6ff459a8c6199e49b40ea03072ab0d7de85ddef3fcb9ae7365b"
 metafile = true
@@ -627,11 +613,6 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "5210bb3f49f9ec8be0f56829ec2367bc0a2a3f31e26859e3cd5e0b8bb674e623"
-metafile = true
-
-[[files]]
-file = "mods/excavated-variants.pw.toml"
-hash = "a6fe33248f54b69b70675817c1c80e71b83994326e582958dd8e6ff62eb95058"
 metafile = true
 
 [[files]]
@@ -822,11 +803,6 @@ metafile = true
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "8e348574d42e681c00b72849b6e33c35610be22bf14fb8c224be2254151f920c"
-metafile = true
-
-[[files]]
-file = "mods/hyle.pw.toml"
-hash = "83b9d0b703284f0383df813f0809097d78e2710d1044a1a35ae0cc7c98192d67"
 metafile = true
 
 [[files]]
@@ -1187,11 +1163,6 @@ metafile = true
 [[files]]
 file = "mods/pocket-storage.pw.toml"
 hash = "31026f9d97a4aa2161d35be3d0fbc5df686c18275e12c302180118e5e9e2606f"
-metafile = true
-
-[[files]]
-file = "mods/pollen.pw.toml"
-hash = "33fa4671dcd2a6ec1d9d861871e2d60721dec660427f7e402d67897b7741ad8e"
 metafile = true
 
 [[files]]
@@ -1557,11 +1528,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
-metafile = true
-
-[[files]]
-file = "mods/unearthed.pw.toml"
-hash = "0cdee9e63e143cf5550a261bff1c56297896db2e6fbbbc5e2df57035798aa043"
 metafile = true
 
 [[files]]
