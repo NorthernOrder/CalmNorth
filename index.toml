@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5210bb3f49f9ec8be0f56829ec2367bc0a2a3f31e26859e3cd5e0b8bb674e623"
+hash = "3beb9c03f7ae8003575c1f7ec04e16a4496a5f74c3f1ffd84334a2406190e1ff"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
-hash = "c8d5a17bcf54617168af01a4c03761a52fe40037e6d85eca33cfa963b4ce77c2"
+hash = "b1c7ca8c6728a7cc606c199f9d6d295932299e662860fda98be0034d7fa264c0"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e22bf7914d90c8bbce878c0378f2d53ff5c49babd9ad59147e83cb5099323768"
+hash = "e777299e0a4e520015143d8f870f9ff33dafa8f8df374024bf89b529d48a6766"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "19b046399a2c0c3f9f6e0dd8e536674304172d796f8073215c890fe28b5183f0"
+hash = "005d17b6efee5feadae53d4ac3231f8a180379d09e354d539fbeb09ec78ac974"
 metafile = true
 
 [[files]]
@@ -962,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "69a72933ee14cbd140fa5a77dd7536d5a5efdfa471a5a35a393c77da5351d2f4"
+hash = "3ec7364a35321749119cfddb6631be0740b6ab422e9a30270c8cd7b30360622e"
 metafile = true
 
 [[files]]
@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "400693f8ac17d3fa36b29ba9ae31d35d473986ce6fa6012db5d7430a7f4bedfb"
+hash = "65fedcf8a69a135a9257d36f40b884c94d2ba5fe5066fd7cb1efccd87df61e0e"
 metafile = true
 
 [[files]]
@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "7526c616a93a35a3486fd5f1cd0ee98a0a037684a5f3aca23349b5558f956156"
+hash = "4ec2662ba7faeebb4d09bd6abb0d520d5a6603e3ce198658bce5b808dff3fa70"
 metafile = true
 
 [[files]]
