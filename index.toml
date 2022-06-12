@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "be67cd4a55a7b25f38ef5d340f4c7508c84fe28d2820de9efffaf21c98cd5efb"
+
+[[files]]
 file = "config/jei-client.toml"
 hash = "5ed3475ce86307a27a55a66effd3da8862e35a959835fd9b0688a448312cdc17"
 

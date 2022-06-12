@@ -1,0 +1,6 @@
+autoJump:false
+realmsNotifications:false
+guiScale:3
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
