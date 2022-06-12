@@ -106,11 +106,6 @@ hash = "df254d0229d72f291df3c42d254e9022fa6e6c0bf374785061e5ce861bf57dad"
 metafile = true
 
 [[files]]
-file = "mods/ars-magica-legacy.pw.toml"
-hash = "6289e426dd86ab0e78d6b010b7f0049aa1178d9377799b92b4bb66c440ed1464"
-metafile = true
-
-[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "a71a8b98e324f1f451e5b49b7ad0809eb269df1164bf514d1f90a77b510fe49c"
 metafile = true
