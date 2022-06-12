@@ -1,0 +1,13 @@
+name = "Minecolonies Refreshed"
+filename = "Minecolonies Refreshed-1.18.2-1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15aa13dc957ed9cd76e70d266f1c75f54e4ac51b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3726188
+project-id = 567347
