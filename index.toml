@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "be67cd4a55a7b25f38ef5d340f4c7508c84fe28d2820de9efffaf21c98cd5efb"
+hash = "257e6046036cc9d02af9ab17653c5d2825292fa8971a014831349921eaf55373"
 
 [[files]]
 file = "config/jei-client.toml"
