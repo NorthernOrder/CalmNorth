@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Dungeons Compat Datapack"
+filename = "Repurposed_Structures-Better_Dungeons_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b114a55225f1334cbf12605c7fc200f84a2c0de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3661516
+project-id = 554329

@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Drunken Mug Compat Datapack"
+filename = "Repurposed_Structures-Drunken_Mug_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c23752b04032ec3791b5f75fa079fd8ba1275c31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3778987
+project-id = 620391

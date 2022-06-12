@@ -1,0 +1,13 @@
+name = "Galosphere"
+filename = "Galosphere-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a489824ed49d335b5b04941b1300842ebd965f50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3828423
+project-id = 631098

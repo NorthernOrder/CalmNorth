@@ -1,0 +1,13 @@
+name = "Create Copper Fix"
+filename = "CopperColorFix-1.18.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "837bcc6400026832cea5f0ebc611c46a70971477"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3601210
+project-id = 543275
