@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jei-client.toml"
+hash = "5ed3475ce86307a27a55a66effd3da8862e35a959835fd9b0688a448312cdc17"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "8390b3bbeeac78407a6604cc440ae8fa8d923d214d99be9b2aad75054541a77e"
 metafile = true
