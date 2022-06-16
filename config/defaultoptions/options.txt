@@ -1,7 +1,7 @@
 autoJump:false
 realmsNotifications:false
 guiScale:3
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Supplementaries Generated Pack","quark:emote_resources","file/Updated_Engineering_v1.5.1.zip","file/Pretty_Pipez.zip","file/Minecolonies Refreshed-1.18.2-1.1.zip","file/CopperColorFix-1.18.zip","file/Create Style Modded Compats v13.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Supplementaries Generated Pack","quark:emote_resources","file/Pretty_Pipez.zip","file/Minecolonies Refreshed-1.18.2-1.1.zip","file/CopperColorFix-1.18.zip","file/Create Style Modded Compats v13.zip"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true

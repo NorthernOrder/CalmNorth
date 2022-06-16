@@ -10,7 +10,7 @@ hash = "58771ae3fbac0f5bf9936e37d76bc483634b9e5c3e0778b3fac438463f291225"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "257e6046036cc9d02af9ab17653c5d2825292fa8971a014831349921eaf55373"
+hash = "85bd7b897f13f79ad288f6083c3d2e6b82f242491a088736ef5e440a21571e53"
 
 [[files]]
 file = "config/fml.toml"
