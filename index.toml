@@ -63,18 +63,8 @@ hash = "99d311b20df07c58262e92d5c93949c2f70b11f8a570a81cc11d9c98b71ab79c"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-immersive-engineering.pw.toml"
-hash = "326901c31999d0fc161512fe0385a83ee0aed670d1742eea1cae475012245048"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/repurposed-structures-more-villagers-datapack.pw.toml"
 hash = "82966b766356961d0685468946ccddbb3e6ff2f9bbe764ea5755a1a3a84239ab"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-pneumaticcraft-repressurized.pw.toml"
-hash = "b2c740490eeb25c70f483d62fc33297c6fb64ba519ff3ee393e4b4fb03443119"
 metafile = true
 
 [[files]]
@@ -1532,11 +1522,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/pretty-pipez.pw.toml"
 hash = "8a63a9c9c9ecc3d3aa3b322791f991b81caebc36161b0929c307dd4db5cc1257"
-metafile = true
-
-[[files]]
-file = "resourcepacks/updated-engineering.pw.toml"
-hash = "94b7384be71f6c7761f9f5b8c8876931b4323f8bdce110bf48c29138d19ee057"
 metafile = true
 
 [[files]]
