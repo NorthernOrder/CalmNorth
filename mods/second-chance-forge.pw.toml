@@ -1,13 +1,13 @@
 name = "Second Chance (Forge)"
-filename = "secondchanceforge-1.18.2-1.4.0.jar"
+filename = "secondchanceforge-1.18.2-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "40a6c786b3d201f857e0f56ea027b27d70636171"
+hash = "e072e9a4970b91b9e61e68cffddabc4a0fcc7570"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3827796
+file-id = 3832230
 project-id = 509239
