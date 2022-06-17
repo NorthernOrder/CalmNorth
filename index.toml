@@ -970,6 +970,11 @@ hash = "a895df4e74926896bb9bebedaf1996037d1f155dddfd7060e5bb51b90808e17c"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
 file = "mods/myrtrees.pw.toml"
 hash = "f377367397c3f40d8666edfcbaf0372df8b5296fa61728e14af7c8606ecd25a0"
 metafile = true
@@ -1322,6 +1327,16 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "a28cc99bad3e90686c30a75f01ec5ab8f079e93c560a38e87b15d5d2475f9489"
+metafile = true
+
+[[files]]
+file = "mods/tetra-pak.pw.toml"
+hash = "3e73874b8c4b42c495c012c6d8f8071f69f014736798180a4598fb3b5bd0f838"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "b3f80796ea0ea21fa8aff99cba72b778c44835264b473436e58f9eccab7fdaa6"
 metafile = true
 
 [[files]]
