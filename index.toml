@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/angel-ring.pw.toml"
-hash = "815af94612fd98d1fd4c5138f7b65c74804ceeba301ab05900ea826fdea45834"
+hash = "480ab5aa4f0dd59e9e01ccd134fe5447de6d5c2d4ef40e00a9e70e722af8f9d2"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "322edae5b93ee024db564525ab0cd7775cc8644933bff413ef240d34f6b08e3e"
+hash = "cd2d6ee57cfb73ed272b1a74a9073aad47d9670c4b7e4d9ac91419b4b458d8e7"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "0b11952bfa328d398f7db38105ef2ac69104cdaa3a67845f3d2563ac9e39124e"
+hash = "76a91090ba6f902e6873d131c45c1fcf493f697a9fe99e4e3fd32aa13562c5cc"
 metafile = true
 
 [[files]]
@@ -277,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "9bad544fb279411eb5d75a77f33a0b18cb7e1a90a9cd9dabf696c4628afed2ed"
-metafile = true
-
-[[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "acee936dece13a20480102ee02af50b5a474dc9db7c1170be230a0bbb157f60c"
 metafile = true
 
 [[files]]
@@ -670,11 +665,6 @@ hash = "1ad39bf13de8391ebd87c7788f18c61a45d823ca03496cfa67092088b1919bc5"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "b1c7ca8c6728a7cc606c199f9d6d295932299e662860fda98be0034d7fa264c0"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
 metafile = true
@@ -906,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "3e01be5e709a7ad5a32cb6a007c86860d2eb1d2f1e67841764d84f95238bedfb"
+hash = "881c311b48957cfb0cce81fb2ab361c65df8b5d71377ba6ba5f7a9f464e6d56b"
 metafile = true
 
 [[files]]
@@ -917,11 +907,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
-metafile = true
-
-[[files]]
-file = "mods/materialis.pw.toml"
-hash = "6256c01b445fcc4ae14a1ca55ee14bb549cd07221c6e8bf6900768c9655cdebb"
 metafile = true
 
 [[files]]
@@ -977,11 +962,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
 
 [[files]]
@@ -1437,11 +1417,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "c033bea9c8ffb4f802e23ce08e38d8bbb5831be1df1e23c8381fd5f1ee52e706"
 metafile = true
 
 [[files]]
