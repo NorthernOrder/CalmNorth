@@ -13,6 +13,10 @@ file = "config/defaultoptions/options.txt"
 hash = "85bd7b897f13f79ad288f6083c3d2e6b82f242491a088736ef5e440a21571e53"
 
 [[files]]
+file = "config/everycomp-registry.toml"
+hash = "110e2f1619647acc752c8f18d0bb578dd5723e1b80b024af494175af942ed260"
+
+[[files]]
 file = "config/fml.toml"
 hash = "51b00d10b07c126991b468f27fa8c56c6410f5e90e6194d4aaf7517fb8170f15"
 
