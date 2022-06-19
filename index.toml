@@ -165,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "f4fb99f529185123278cc8b21cc42c722f2d19121a619653b35d89427123b133"
+hash = "e189784ed552d12a342601102fa87b1e7cb60e1152f619fa15dd283f72235e65"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "532c1c0d03feb7a5ad03894dfcb62cc454dadbec487e3a1c14dad4b0891abc0b"
+hash = "7b861a0ac4bf19d568b59d6d439169b932c8582fc9a7c4e4d98eb46b6a520c93"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental-elemental-spell-foci.pw.toml"
-hash = "14c2a12e2010b971514d38a50a5f1fd80741f776a8e3ffae64a18a068224319a"
+hash = "8f3848a8c08b5b0f144ee17fdeb2ce2b07dc4950c7fe9c97475618395b07970e"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "148b3e16b8ae6e2a0bbee04f9b090cdb89a6cda6218a5e64affb68fe730615ee"
+hash = "d9dc76ffe25b4f4f9c9d6c896181a3952a9f432d883098ab30537ad01b3410aa"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "17087079b1572a002e826a8b0e55186cb77d4c391cdf69814848c3f49e066520"
+hash = "6a6c57d3f0855c6ea489dd74deff8ffbd82cc53a61811f603ed99ea5a0bc45d7"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/ensorcellation.pw.toml"
-hash = "b43ec67583b4c6ff459a8c6199e49b40ea03072ab0d7de85ddef3fcb9ae7365b"
+hash = "4c948b97f01f941ee8c85898159ab282839c2e6011f5650d09e617d59dff9798"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-industrial-contraptions-forge.pw.toml"
-hash = "5890cf60ad2688363f83bbe122378ed2d515ab87e289a3d5421a38faec167df0"
+hash = "84cde03e162530de34f90097900e3c911f573b0bdd3ebbbbdea52be0f6aa7077"
 metafile = true
 
 [[files]]
@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1e8dda8981f36db7c9369e295909f2413e87f5349034fd21fe141e774fea660f"
+hash = "d744a20684bcd4c6419386a4f88404e1821a4f984cffc8accfc25f28af8a4097"
 metafile = true
 
 [[files]]
@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-forge.pw.toml"
-hash = "ff1f08c9a08540170477718a3098e67a4593834085710a2dc1c5e09e8da5d644"
+hash = "e90e42036594cd4259ab648fa1c8c91cfa968dfe5706be65ee53ee7c85710e77"
 metafile = true
 
 [[files]]
@@ -1155,12 +1155,12 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "3703c014ec6754bedf94d694b336603589ca876fbf59cd78f3e9be414ba01059"
+hash = "e38378bd55252463198adde29a011ee1f8dcdcaa264c7e6513d1e6a402debc58"
 metafile = true
 
 [[files]]
 file = "mods/right-click-get-crops.pw.toml"
-hash = "0eb27ee0e45c8b950ea2cdf2c8a504bb29a2b5fefbdddca43d045812fdbb1352"
+hash = "466c73ee05da8137747af0eefd978b0faa41e70618fc10ad198ccfde295e57f4"
 metafile = true
 
 [[files]]
@@ -1360,22 +1360,22 @@ metafile = true
 
 [[files]]
 file = "mods/the-wild-backport.pw.toml"
-hash = "12a3e4e16f50430256cbed4d80a7972ebd8599973c616f54f3c017749be320f3"
+hash = "d14a33dbb9abe4eb4630acbf0ef63d36672b1958a78e7d867ba845668431579c"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "b01a8cbc94c0f254fcc1c1078c0f86eee79d6f7d83a6d34598aaa7b0eb03ca27"
+hash = "acde76ce2d1dcf489d3785ef04ebc49c3af7a07132a4d85e35e83fef6a489d8f"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "4a99e860d8c57a2514480be5b23680d8361115906ea6c318807c15c0eefa23f0"
+hash = "e8c094b697a3fcce31e7f271984c5ed0c47b766a4c883cce40e1d90537e0b1ac"
 metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.pw.toml"
-hash = "97ff742629e0988d62b50aca81beb5ff7829e1084dbc4e014e7453d95a6d633b"
+hash = "567e153674f4323f64157ee4cfd1f2314953d8049f41aebef68f81fa81c5f311"
 metafile = true
 
 [[files]]
