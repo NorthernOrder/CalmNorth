@@ -22,7 +22,7 @@ hash = "51b00d10b07c126991b468f27fa8c56c6410f5e90e6194d4aaf7517fb8170f15"
 
 [[files]]
 file = "config/ftbultimine.snbt"
-hash = "933d18935fe52fcc244414306c7cbb3cae74cadfc4267423a62a271048a4dee4"
+hash = "595b07f4d08c0343cb07bbf9cca13ab8e86ea39576200b1bf22c2f537832028a"
 
 [[files]]
 file = "config/jei-client.toml"
@@ -31,6 +31,10 @@ hash = "5ed3475ce86307a27a55a66effd3da8862e35a959835fd9b0688a448312cdc17"
 [[files]]
 file = "config/jei/blacklist.cfg"
 hash = "e2349712d4ba2441a18112982dc29c08f46c31dfa6c633ff2979d000c8abb437"
+
+[[files]]
+file = "config/paraglider-common.toml"
+hash = "9ced0bb1b087bccbf828dfc5f50421018ca76970240f23cf1b45d245cd318c90"
 
 [[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
@@ -80,6 +84,10 @@ file = "config/sdrp-client.toml"
 hash = "744395de4de7306239e49a3bdf5735ce1d4e880f0822f90fa64f2c3e1187dff8"
 
 [[files]]
+file = "config/serverconfigupdater-common.toml"
+hash = "1c851ca4bc4a7675b05bb3b354418dda6a2d75cbf0774b4bc3cb578d534718b0"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "63164627da238fa2608b7833a654bd87c135a4c119fe00cc10a4fe1bbaada6f1"
 
@@ -92,12 +100,24 @@ file = "config/theoneprobe-common.toml"
 hash = "98e27bf23183034f1dfcf8c84a493da6cac246e3c2e4eb9923ebf6154fd2cc45"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "816dcaf7941758ce1bf793553912c1128fdecea5123e245be21127005b90d03f"
+
+[[files]]
+file = "defaultconfigs/paraglider-server.toml"
+hash = "4d2f4fdb38e47b11ea2f715f82c40a86041006e473d567ccb2363c7a0c0a8bca"
+
+[[files]]
 file = "kubejs/assets/sdrp/lang/en_us.json"
 hash = "42050f526f978c564e39d9698fc3c5a560ca403d0d6989388d4cd57289635a02"
 
 [[files]]
 file = "kubejs/config/client.properties"
 hash = "2132efad3fb033588c6cdc785299cabaaee6453bb0f0cc56f4299cbb90d38b49"
+
+[[files]]
+file = "kubejs/server_scripts/settings.js"
+hash = "f2bfd9855c4b0da766732331dd83a045bac0a152963439ca85073b108665effc"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
@@ -210,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-instrumentum.pw.toml"
-hash = "df254d0229d72f291df3c42d254e9022fa6e6c0bf374785061e5ce861bf57dad"
+hash = "30b298761e48c807735e476740daf6f46e544f8a24fbe44652a9afb452caa2f1"
 metafile = true
 
 [[files]]
@@ -850,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/laserio.pw.toml"
-hash = "418ef7f56c848f8bcd8b8692e48738d6c5d53d499c27c279f5cb90990b337aaf"
+hash = "42e34996bc5be1974a1a0ab03683032398be035db80e1879ddb13679486dc732"
 metafile = true
 
 [[files]]
@@ -905,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "5966d3fc3dadd26fe8de03ccfd4999b64b08a3c1dfb11e172e0404c198046a47"
+hash = "aca8f625a371e3604921dff5b997465073422073abdcc98d96194d60f2ef3ce1"
 metafile = true
 
 [[files]]
@@ -930,12 +950,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d744a20684bcd4c6419386a4f88404e1821a4f984cffc8accfc25f28af8a4097"
+hash = "494ff2f0891ded1ea083cd199c0987bf464ce0542ed5eed8a9f01f76f83900fe"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "8341e944f9c7f92c57c20ac9d1f20d3645cd5fd790fc4376d81fc790b36beb8b"
+hash = "b3b102b5c6c34463eaa979f0a494716cc51f7cb29e39884b4f3b3265cdc72b60"
 metafile = true
 
 [[files]]
@@ -970,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "a895df4e74926896bb9bebedaf1996037d1f155dddfd7060e5bb51b90808e17c"
+hash = "c1bcc2da832b27e331ea5b6cc80bf573ebb19cbaf5fea3c1b7af56791a7812ea"
 metafile = true
 
 [[files]]
@@ -1050,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-forge.pw.toml"
-hash = "e90e42036594cd4259ab648fa1c8c91cfa968dfe5706be65ee53ee7c85710e77"
+hash = "15206958edd4dd49895f5abd689a1d2dbd3687b0ff90f630d38768e61507dcfe"
 metafile = true
 
 [[files]]
@@ -1135,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "08e39d12e33b6f35b33c4a32977a320d58020b58af91be8a10a54b3c62d04e65"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
@@ -1230,12 +1250,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ffc23f3ccdf1d04c0856d81cb23bf0120afc50ef8de258354102f3ccfbfebee7"
+hash = "b7a1c0a2c12196e1f728c9599edddc617469ce05d1fc9939236df2f7826c8728"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9ab2a1eeb68ee98b69221c1907527b304dae910f178382d66ddaca6af361d7c7"
+hash = "7f28aafd5a145f9e6f3fd2cf6e095a2296d66cb3ccfd0349291c8f066a22d953"
 metafile = true
 
 [[files]]
@@ -1290,7 +1310,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "9e3bbfbea841d962b594a02092bc75887cf98ce76931e2d9f7b9fc997592d5ac"
+hash = "48140425fdb2faac13b034954f36b55ab58ec09626b6b8f4e715d2db48a45009"
 metafile = true
 
 [[files]]
@@ -1330,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "a28cc99bad3e90686c30a75f01ec5ab8f079e93c560a38e87b15d5d2475f9489"
+hash = "c96a3fbd359b6b6532f8f44158a1beab2ee1e58c83086e9cce5114344ce5a90e"
 metafile = true
 
 [[files]]
@@ -1360,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-wild-backport.pw.toml"
-hash = "12a3e4e16f50430256cbed4d80a7972ebd8599973c616f54f3c017749be320f3"
+hash = "854e4ecbe25b12b8cbc800924c29a414c28b9b5de34bc7e9cad67e1038e9e967"
 metafile = true
 
 [[files]]

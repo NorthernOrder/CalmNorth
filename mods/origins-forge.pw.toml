@@ -1,13 +1,13 @@
 name = "Origins (Forge)"
-filename = "Origins-1.18.2-1.4.1.2-unified.jar"
+filename = "Origins-1.18.2-1.4.1.3-unified.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39ac6878ba1f0b0d3e753184b710d2fcb3c82114"
+hash = "77518de5fff989f5eb0fc194957df19c32958687"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3837316
+file-id = 3838520
 project-id = 474438

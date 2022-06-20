@@ -1,13 +1,13 @@
 name = "Ars Instrumentum"
-filename = "ars_instrumentum-1.18.3-2.4.0.jar"
+filename = "ars_instrumentum-1.18.2-2.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f62c5a968647a8f2c8ee72eeb656d98ee63fca77"
+hash = "0bbf633e1443e3e41071ba790198b3c3eab798d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3820924
+file-id = 3838469
 project-id = 580179
