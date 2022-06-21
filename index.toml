@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
+hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "7ddd2cca2925ba00481054b3c7791bf7fcd7d25add95c065e4506de23ceae5dd"
+hash = "52e6d01a2bde08d63a67622b90a9cf2e3328ed1389c25ba72b908b48425c97fb"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e777299e0a4e520015143d8f870f9ff33dafa8f8df374024bf89b529d48a6766"
+hash = "ac657b3dda92f86730cd319d5094a72db45fb3524ea06fbe8beff86d49cbae65"
 metafile = true
 
 [[files]]
@@ -950,12 +950,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "494ff2f0891ded1ea083cd199c0987bf464ce0542ed5eed8a9f01f76f83900fe"
+hash = "23dea206e9c3646421296a5939c5897d041d54653f368f37a267788e4ee4ef72"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "b3b102b5c6c34463eaa979f0a494716cc51f7cb29e39884b4f3b3265cdc72b60"
+hash = "3b6f2d2e5bb5c545e29e2ef23af7fd73dab9ad7737b196fcea9fe722b78f3e7c"
 metafile = true
 
 [[files]]
@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
-hash = "24c1a898a68e714b1dcfafeaf3a7150d5247d4ad34ab22b0f87788b0a4ac6e1d"
+hash = "e714ceb525c0160e6ea30d29d8cd911836bb3daa8340de9dd733d6264b085c4d"
 metafile = true
 
 [[files]]
