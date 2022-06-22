@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cd2d6ee57cfb73ed272b1a74a9073aad47d9670c4b7e4d9ac91419b4b458d8e7"
+hash = "725e11c2310f713aae3d05d2dd377e5477fb1844f15547a01e7f459128469b56"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "9f84fd71dcf5e035523e2d5051d215f8649247a64ecd723228749f4a1533d714"
+hash = "36bae8609f27de678aa819818d8f38dca272c611120b25ced51df2c5381c0349"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "bfd055bfff21fe03e0becf0f126249b41e4f17fd50953b79dcfdc809cf59aa61"
+hash = "bb01f80b09d127dbcc463ebe445454a1be6e9c96a8418253dcb7bfc4e9fd5e18"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "52e6d01a2bde08d63a67622b90a9cf2e3328ed1389c25ba72b908b48425c97fb"
+hash = "67c772a96ce27ca04b1adb3b18ca283c8baf2b52d4eddd7ec86f2aea161a7b04"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "335d51f82803c67fa8a88d6dd3aa403ea2ffdb4bc73b27ba27c928734f51f96d"
+hash = "70f6b0517adb2bd924f699dbe70bd984e4d44f6da3c558a3bf3b863515d06d31"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "881c311b48957cfb0cce81fb2ab361c65df8b5d71377ba6ba5f7a9f464e6d56b"
+hash = "f3c33cdf495f3052a3cc4c35373e3f5383bf59446320f03dba4a4664b768e4b7"
 metafile = true
 
 [[files]]
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "23dea206e9c3646421296a5939c5897d041d54653f368f37a267788e4ee4ef72"
+hash = "c4508679c26c4893cd5c9f35e8cc663e62922ea9bfa1e3057d1276df69907ab2"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers.pw.toml"
-hash = "2bbbc1dd9d7ec4cf8b43c7ddffd2e23bb60ce164bd47ed3f440d2997fae1945b"
+hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
+hash = "3cc554da0c8cd27dea596caee69e632ba859f85faf127427e5cc3cfcc9df58ed"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4ec2662ba7faeebb4d09bd6abb0d520d5a6603e3ce198658bce5b808dff3fa70"
+hash = "ba6f526abfa2de89194f9c5fa2349964a7f262b8a5ff02e808402843380a28d8"
 metafile = true
 
 [[files]]
