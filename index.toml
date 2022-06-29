@@ -13,6 +13,14 @@ file = "config/defaultoptions/options.txt"
 hash = "85bd7b897f13f79ad288f6083c3d2e6b82f242491a088736ef5e440a21571e53"
 
 [[files]]
+file = "config/detailab-client.toml"
+hash = "b91a487b59e11b8e77ec6bc974cb9dfad1f19945047c30720127e13fe1f19061"
+
+[[files]]
+file = "config/detailarmorbar.json"
+hash = "d0b89e1ec17624270de7a6e4487e3a6a7d6512ebda33eaede09f33d5249d37af"
+
+[[files]]
 file = "config/everycomp-registry.toml"
 hash = "110e2f1619647acc752c8f18d0bb578dd5723e1b80b024af494175af942ed260"
 
@@ -114,6 +122,10 @@ hash = "42050f526f978c564e39d9698fc3c5a560ca403d0d6989388d4cd57289635a02"
 [[files]]
 file = "kubejs/config/client.properties"
 hash = "2132efad3fb033588c6cdc785299cabaaee6453bb0f0cc56f4299cbb90d38b49"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "985fab60f46fca841adec5daee5a7cce92848830d0ff2424c69aba5a491f4f30"
 
 [[files]]
 file = "kubejs/server_scripts/settings.js"
@@ -639,6 +651,11 @@ hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
 
 [[files]]
+file = "mods/experience-obelisk.pw.toml"
+hash = "54270dd3c869ea85c39f4f93766983ecd82e148837fed5b57129c35ca04ba04b"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "64d5ac9d5c4ef3304ea8123500097814eee2db6775de87d0d2ab0af5b19e9599"
 metafile = true
@@ -709,33 +726,8 @@ hash = "6f2867d9bae0ad1b6d65c8ebbbf1101b0a458d7d5ea31edc9c8119f3d04da079"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "3a9cb8eb948dcdf388afde4afe2c219b450151288c5c06acdc7ce053afdf2105"
-metafile = true
-
-[[files]]
-file = "mods/ftb-essentials-forge.pw.toml"
-hash = "3546d7047d24d2358cfaf52b0d02008076cd22e4467d1f8faab96cde72492c58"
-metafile = true
-
-[[files]]
 file = "mods/ftb-industrial-contraptions-forge.pw.toml"
 hash = "84cde03e162530de34f90097900e3c911f573b0bdd3ebbbbdea52be0f6aa7077"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "5c3dc82db539bbf975cf94c3e8f39ebeec1be6417059edab00e377c29a904318"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
 metafile = true
 
 [[files]]
@@ -745,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/galosphere.pw.toml"
-hash = "1f3d03a4f57cedc52d0753c6346ceb1bb514c47d5fdc34dbc7190fd717576284"
+hash = "d31eacc48813a6f7fc1d77f99ed63a3c4abc90023c29c20207ec37dd031243de"
 metafile = true
 
 [[files]]
@@ -974,6 +966,11 @@ hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
 metafile = true
 
 [[files]]
+file = "mods/more-mobgriefing-options.pw.toml"
+hash = "2011e37cdeab107c3f32f9e1a0449897b1ad7f85f5426bc49d7339f16d26c23c"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
@@ -1090,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3cc554da0c8cd27dea596caee69e632ba859f85faf127427e5cc3cfcc9df58ed"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
@@ -1459,6 +1456,11 @@ hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "8235a481d596fb1bdfb85af9e2fd560f2eccbf09a773ff41d8f223ee2b0e44a9"
+metafile = true
+
+[[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "2a228f8a66a1816c1b692c78c0aa962b7737c9f7d6eca4e70ef6f7250caa200d"
 metafile = true
@@ -1491,6 +1493,16 @@ metafile = true
 [[files]]
 file = "mods/wyml.pw.toml"
 hash = "2476f3be12844b6b2c348a82b3cf8941edfaab633faccd744f72b1b1e7f32092"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "aaa52abf75072b6c931e9ab7d0594f8ad8e488192510f7f7ba58b10c7e9e40f1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Experience Obelisk"
+filename = "1.3.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "723ae145edc48c58199e8370414f8606f7f853e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3791557
+project-id = 579484
