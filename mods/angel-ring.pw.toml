@@ -1,13 +1,13 @@
 name = "Angel Ring"
-filename = "angelring-1.18.2-2.0.0.jar"
+filename = "angelring-1.18.2-2.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a2b814b96f7b3736f374141bf414fbabb140cb0f"
+hash = "86e4199cea5538ef57ef557cc95bdd85dcb0f2bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3834434
+file-id = 3849197
 project-id = 333396

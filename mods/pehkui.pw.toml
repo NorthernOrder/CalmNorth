@@ -1,13 +1,13 @@
 name = "Pehkui"
-filename = "Pehkui-3.3.2+1.18.2-forge.jar"
+filename = "Pehkui-3.3.3+1.18.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "88666f917391c29be7d463a4187bc7c5c4041979"
+hash = "711c610132a26be85eb10dbf78e5f2955f745e25"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3808012
+file-id = 3849569
 project-id = 319596

@@ -1,0 +1,13 @@
+name = "Ars Omega"
+filename = "arsomega-2.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f2a972aef8467e99866dd3646b95ddb6063b429"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819746
+project-id = 597007
