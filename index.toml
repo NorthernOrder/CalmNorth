@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "f9cfdc70a17525fb20790c0acefc01582cb525936039fb700989418e654161b5"
+
+[[files]]
 file = "config/blockswap/block_swap.json5"
 hash = "d309860590fc7dcd9911c5afbd342c41944eaca8ef036ec01a86d43bfbea40c8"
 
