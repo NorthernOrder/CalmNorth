@@ -731,6 +731,16 @@ hash = "84cde03e162530de34f90097900e3c911f573b0bdd3ebbbbdea52be0f6aa7077"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5c3dc82db539bbf975cf94c3e8f39ebeec1be6417059edab00e377c29a904318"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "b1d62a5e8fd3e5da03b34f0236055f200f1dee2eb9d800b37d94d8b68f9cf845"
 metafile = true
@@ -1453,11 +1463,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "51b7ba6e4a7c58cbbd28cc2ab96aa12b448afc835bb96a834ca7233b71ab16b5"
-metafile = true
-
-[[files]]
-file = "mods/vein-mining.pw.toml"
-hash = "8235a481d596fb1bdfb85af9e2fd560f2eccbf09a773ff41d8f223ee2b0e44a9"
 metafile = true
 
 [[files]]
