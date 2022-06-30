@@ -1,3 +1,7 @@
+## 0.3.3
+
+Set default options for map
+
 ## 0.3.2
 
 Start versioning

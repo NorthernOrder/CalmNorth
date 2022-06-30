@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f9cfdc70a17525fb20790c0acefc01582cb525936039fb700989418e654161b5"
+hash = "5e1c6e78e77568697275cf336bfb4d3e41e0ac85d0fe9a25e687f796cb7efdc1"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
@@ -11,6 +11,18 @@ hash = "d309860590fc7dcd9911c5afbd342c41944eaca8ef036ec01a86d43bfbea40c8"
 [[files]]
 file = "config/cofh_core-client.toml"
 hash = "58771ae3fbac0f5bf9936e37d76bc483634b9e5c3e0778b3fac438463f291225"
+
+[[files]]
+file = "config/defaultoptions/config/xaerominimap.txt"
+hash = "647831a10934f6f666622a01edcaeb64769e848a122c9831b12c3ee4676b1c25"
+
+[[files]]
+file = "config/defaultoptions/config/xaerominimap_entities.json"
+hash = "28636a8ac8eda339af89afb84fc942bd6c6bb5706eedab692b5c04e7b5ea204b"
+
+[[files]]
+file = "config/defaultoptions/config/xaeroworldmap.txt"
+hash = "9070fe753e0f5ae8f7f8fbb0a5abfd3c5a6d85dcd1971d413e30d62f9d18d85a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
