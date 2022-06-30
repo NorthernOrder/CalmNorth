@@ -4,4 +4,5 @@ kubejs/jsconfig.json
 kubejs/probe/*
 todo.md
 changelog.md
+hold/*
 

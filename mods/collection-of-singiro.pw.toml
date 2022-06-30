@@ -1,13 +1,13 @@
 name = "Collection of Singiro"
-filename = "collection-of-singiro-1.18.x-1.0.9.jar"
+filename = "collection-of-singiro-1.18.x-1.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb67e5ff061fda811221e2f775cc008d402a42b1"
+hash = "34785fc7a1e577839821fc4624903a8f515f2ca4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3829721
+file-id = 3846765
 project-id = 557086
