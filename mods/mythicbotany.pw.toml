@@ -1,13 +1,13 @@
 name = "MythicBotany"
-filename = "MythicBotany-1.18.2-2.1.9.jar"
+filename = "MythicBotany-1.18.2-2.1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c2c6c280c16ba1676ff56a9a7fc86b505b5605d0"
+hash = "fa955993c5ce15a7d8d5a9f1d9613014a15f1615"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3847453
+file-id = 3830590
 project-id = 400058

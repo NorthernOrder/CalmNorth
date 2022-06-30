@@ -14,7 +14,6 @@ Updated Mods:
 - Better Advancements 0.2.0.129 -> 0.2.1.132
 - Better Compatibility Checker 1.1.14-build.26 -> 1.1.15-build.29
 - BlockUI 0.0.48-ALPHA -> 0.0.53-ALPHA
-- Botania 433 -> 434
 - CC: Tweaked 1.100.6 -> 1.100.8
 - Chisels & Bits 1.2.90 -> 1.2.101
 - CodeChicken Lib 1.8.+ 4.1.0.461 -> 4.1.1.462
@@ -33,10 +32,8 @@ Updated Mods:
 - Mahou Tsukai 1.34.24 -> 1.34.26
 - MineColonies 1.0.846-ALPHA -> 1.0.860-ALPHA
 - MCA Reborn 7.3.3 -> 7.3.4
-- MythicBotany 2.1.8 -> 2.1.9
 - Origins 1.4.1.3 -> 1.4.1.4
 - Overweight Farming 1.3.2 -> 1.3.4
-- Patchouli 70 -> 71.1
 - Pehkui 3.3.2 -> 3.3.3
 - Placebo 6.4.0 -> 6.4.1
 - ProbeJS 3.0.0 -> 3.0.5
@@ -47,6 +44,16 @@ Updated Mods:
 - SuperMartijn642's Config Lib 1.1.4 -> 1.1.5
 - Tetra 4.9.2 -> 4.9.3
 - Xaero's Minimap 22.10.0 -> 22.11.1
+
+Updates Held Back:
+
+- Ars Omega 2.6.1 -> 2.7.0-beta3 (beta version)
+- Bookshelf 13.2.21 -> 13.2.28 (alpha version)
+- Botania 433 -> 434 (requires newer forge version)
+- Corpse 1.0.1 -> 1.0.2 (alpha, only changes save format)
+- Mysterious Mountain Lib 1.0.2 -> 1.0.3 (no changelog or git commit)
+- MythicBotany 2.1.8 -> 2.1.9 (requires newer forge version)
+- Patchouli 70 -> 71.1 (requires newer forge version)
 
 ## 0.3.2
 

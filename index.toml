@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
+hash = "81ad4e56179d918acb94960a2c6bf569715fe564c49b6b51076b590d3853dc9b"
 metafile = true
 
 [[files]]
@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicbotany.pw.toml"
-hash = "c611bb417938efba748983cb749efa7970df9633450bc0d908f94e8ddedf187b"
+hash = "17fa774f137fa594e8d5c32aa34aff7c52054e0e5052e6d5da3588e9917d206b"
 metafile = true
 
 [[files]]
@@ -1096,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
