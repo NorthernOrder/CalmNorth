@@ -1,3 +1,20 @@
+## IN DEV
+
+Actually hold back mods from updates
+
+Updated Mods:
+
+- Architectury API 4.5.75 -> 4.5.76
+- Ars Nouveau 2.6.0 -> 2.6.1
+- Chisels & Bits 1.2.101 -> 1.2.104
+- Extreme Reactors 2.0.49 -> 2.0.51
+- KubeJS 1802.5.4-build.506 -> 1802.5.4-build.508
+- Mysterious Mountain Lib 1.0.2 -> 1.0.4
+- Pretty Pipes 1.12.3 -> 1.12.5
+- Supplementaries 1.4.6 -> 1.4.7
+- YUNG's Better Mineshafts 2.1.4 -> 2.2
+- ZeroCore 2 2.1.19 -> 2.1.22
+
 ## 0.4.0
 
 Big set of mod updates
