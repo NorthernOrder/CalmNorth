@@ -4,13 +4,20 @@ Actually hold back mods from updates
 
 Updated Mods:
 
+- Applied Energistics 2 Wireless Terminals 11.1.2 -> 11.1.3
 - Architectury API 4.5.75 -> 4.5.76
 - Ars Nouveau 2.6.0 -> 2.6.1
-- Chisels & Bits 1.2.101 -> 1.2.104
+- Chisels & Bits 1.2.101 -> 1.2.108
+- Connected Glass 1.1.3a -> 1.1.4
 - Extreme Reactors 2.0.49 -> 2.0.51
-- KubeJS 1802.5.4-build.506 -> 1802.5.4-build.508
-- Mysterious Mountain Lib 1.0.2 -> 1.0.4
+- GeckoLib 3.0.27 -> 3.0.28
+- KubeJS 1802.5.4-build.506 -> 1802.5.4-build.510
+- MineColonies 1.0.860-ALPHA -> 1.0.872-BETA
+- Mysterious Mountain Lib 1.0.2 -> 1.0.5
+- Nature's Compass 1.9.5 -> 1.9.7
 - Pretty Pipes 1.12.3 -> 1.12.5
+- ProbeJS 3.0.5 -> 3.1.5
+- Structure Gel API 2.4.4 -> 2.4.5
 - Supplementaries 1.4.6 -> 1.4.7
 - YUNG's Better Mineshafts 2.1.4 -> 2.2
 - ZeroCore 2 2.1.19 -> 2.1.22
