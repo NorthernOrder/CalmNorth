@@ -1,15 +1,19 @@
 ## IN DEV
 
 Actually hold back mods from updates
+Customized Main Menu
 
 Updated Mods:
 
 - Applied Energistics 2 Wireless Terminals 11.1.2 -> 11.1.3
 - Architectury API 4.5.75 -> 4.5.76
+- Ars Elemental 0.4.9.5 -> 0.4.9.7
 - Ars Nouveau 2.6.0 -> 2.6.1
+- Bedspreads 5.1.0.5 -> 5.1.2.0
 - Chisels & Bits 1.2.101 -> 1.2.108
 - Connected Glass 1.1.3a -> 1.1.4
 - Extreme Reactors 2.0.49 -> 2.0.51
+- Farmer's Respite 1.2.0 -> 1.3.0
 - GeckoLib 3.0.27 -> 3.0.28
 - KubeJS 1802.5.4-build.506 -> 1802.5.4-build.510
 - MineColonies 1.0.860-ALPHA -> 1.0.872-BETA
