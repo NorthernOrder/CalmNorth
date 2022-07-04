@@ -49,6 +49,10 @@ file = "config/ftbultimine.snbt"
 hash = "595b07f4d08c0343cb07bbf9cca13ab8e86ea39576200b1bf22c2f537832028a"
 
 [[files]]
+file = "config/itshallnottick-common.toml"
+hash = "9b9402e6385f61277aa2b5a400875d3fd7eef96596e877fe6ad81d0155937853"
+
+[[files]]
 file = "config/jei-client.toml"
 hash = "5ed3475ce86307a27a55a66effd3da8862e35a959835fd9b0688a448312cdc17"
 
@@ -138,6 +142,10 @@ hash = "42050f526f978c564e39d9698fc3c5a560ca403d0d6989388d4cd57289635a02"
 [[files]]
 file = "kubejs/config/client.properties"
 hash = "2132efad3fb033588c6cdc785299cabaaee6453bb0f0cc56f4299cbb90d38b49"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "6b78e0fdd522e20c02d2d9ad966e443438102b2980e790e41d4953fdefb703f4"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -268,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-omega.pw.toml"
-hash = "1a23aa95f1bafcda45beee51ff0bee1bf15003c8fb907895e2c6964ce5b5ada2"
+hash = "5a494fb8dead605f49bc58fb0db13603fa7e37aa5dffa5eff205d09eb099d177"
 metafile = true
 
 [[files]]
@@ -333,12 +341,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ec49f4fece980a68335b80adb850b1aa20bd7204346f8e5aea9bbc97d10da608"
+hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
 metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
+hash = "81ad4e56179d918acb94960a2c6bf569715fe564c49b6b51076b590d3853dc9b"
 metafile = true
 
 [[files]]
@@ -463,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
+hash = "e4155e11b80301e0dbc76f64deea0f7b73c2e8086782ce8a7cdc5b72b2218172"
 metafile = true
 
 [[files]]
@@ -1033,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicbotany.pw.toml"
-hash = "c611bb417938efba748983cb749efa7970df9633450bc0d908f94e8ddedf187b"
+hash = "17fa774f137fa594e8d5c32aa34aff7c52054e0e5052e6d5da3588e9917d206b"
 metafile = true
 
 [[files]]
@@ -1108,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
