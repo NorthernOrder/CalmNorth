@@ -7,19 +7,20 @@ onEvent("ui.main_menu", (event) => {
 
     console.info(ui.height);
 
-    let leftSide = ui.width / 6;
-    let buttonHeight = 20;
-    let space = 5;
-    let buttonCount = 0;
-    let halfHeight = ui.height / 2;
-    let buttonXPos = leftSide - 100;
-    let getButtonHeight = () => {
-      return halfHeight + buttonCount++ * (space + buttonHeight);
-    };
+    let scaleW = ui.width / 640;
+    let scaleH = ui.height / 360;
 
+    let panelWidth = 250 * scaleW;
+
+    let btnSpacing = 5;
+    let btnWidth = Math.min(200 * scaleW, 200);
+    let btnHeight = Math.min(20 * scaleW, 20);
+    let buttonXPos = panelWidth / 2 - btnWidth / 2;
+
+    // Panel
     ui.image((img) => {
-      img.height = 2160;
-      img.width = 300;
+      img.height = ui.height + 1;
+      img.width = panelWidth;
       img.x = 0;
       img.y = 0;
       img.texture = "calmnorth:textures/overlay.png";
@@ -27,28 +28,29 @@ onEvent("ui.main_menu", (event) => {
 
     // Pack Logo
     ui.image((img) => {
-      img.height = 384 * 0.2;
-      img.width = 384 * 0.2;
-      img.x = leftSide - img.width / 2;
-      img.y = ui.height / 4 - img.height / 2;
+      img.height = 92 * scaleW;
+      img.width = 92 * scaleW;
+      img.x = panelWidth / 2 - img.width / 2;
+      img.y = (360 * scaleH) / 4 - img.height / 2 - 4;
       img.texture = "calmnorth:textures/logo.png";
     });
 
     // Pack Name
     ui.image((img) => {
-      img.height = 300 * 0.2;
-      img.width = 800 * 0.2;
-      img.x = leftSide - img.width / 2;
-      img.y = ui.height / 2 - img.height * 1.4;
+      img.height = 45 * scaleW;
+      img.width = 120 * scaleW;
+      img.x = panelWidth / 2 - img.width / 2;
+      img.y = (360 * scaleH) / 2 - img.height - 10;
       img.texture = "calmnorth:textures/name.png";
     });
 
     // Singleplayer
     ui.button((btn) => {
       btn.name = Text.translate("menu.singleplayer");
-      btn.width = 200;
+      btn.width = btnWidth;
+      btn.height = btnHeight;
       btn.x = buttonXPos;
-      btn.y = getButtonHeight();
+      btn.y = ui.height / 2;
       btn.action = "minecraft:singleplayer";
       btn.shadow = false;
     });
@@ -56,9 +58,10 @@ onEvent("ui.main_menu", (event) => {
     // Multiplayer
     ui.button((btn) => {
       btn.name = Text.translate("menu.multiplayer");
-      btn.width = 200;
+      btn.width = btnWidth;
+      btn.height = btnHeight;
       btn.x = buttonXPos;
-      btn.y = getButtonHeight();
+      btn.y = ui.height / 2 + btnSpacing + btnHeight;
       btn.action = "minecraft:multiplayer";
       btn.shadow = false;
     });
@@ -66,9 +69,10 @@ onEvent("ui.main_menu", (event) => {
     // Mods
     ui.button((btn) => {
       btn.name = Text.translate("fml.menu.mods");
-      btn.width = 200;
+      btn.width = btnWidth;
+      btn.height = btnHeight;
       btn.x = buttonXPos;
-      btn.y = getButtonHeight();
+      btn.y = ui.height / 2 + 2 * (btnSpacing + btnHeight);
       btn.action = "forge:mod_list";
       btn.shadow = false;
     });
@@ -76,9 +80,10 @@ onEvent("ui.main_menu", (event) => {
     // Options
     ui.button((btn) => {
       btn.name = Text.translate("menu.options");
-      btn.width = 200;
+      btn.width = btnWidth;
+      btn.height = btnHeight;
       btn.x = buttonXPos;
-      btn.y = getButtonHeight();
+      btn.y = ui.height / 2 + 3 * (btnSpacing + btnHeight);
       btn.action = "minecraft:options";
       btn.shadow = false;
     });
@@ -86,9 +91,10 @@ onEvent("ui.main_menu", (event) => {
     // Quit
     ui.button((btn) => {
       btn.name = Text.of("Quit");
-      btn.width = 200;
+      btn.width = btnWidth;
+      btn.height = btnHeight;
       btn.x = buttonXPos;
-      btn.y = getButtonHeight();
+      btn.y = ui.height / 2 + 4 * (btnSpacing + btnHeight);
       btn.action = "minecraft:quit";
       btn.shadow = false;
     });
