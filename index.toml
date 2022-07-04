@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental-elemental-spell-foci.pw.toml"
-hash = "8df7eeb6e1dccfcd89b318086d9baa28b6121f41c6a90c23573a45009be981b8"
+hash = "b5f8915a41b5c51e106efe2deecd21acef236f04ffb101eaf7d02e9d2192cb25"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/bedspreads.pw.toml"
-hash = "7f3bdfbfa0169f79a3f79a3999105bcc9f72cadc86577ca5f24952098fab87a7"
+hash = "5874d9585fe7aaf21b8873fb70306dd374dadd778758c6dbacf7b128dc092db7"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-respite.pw.toml"
-hash = "e95e30142aa6de705d684a49034007217a3a79c5f9c760e84951495d837f7085"
+hash = "2e87c0d260e4e99193d9bfa22fe1650d057224c5f329631c745e958dfa885c6b"
 metafile = true
 
 [[files]]
