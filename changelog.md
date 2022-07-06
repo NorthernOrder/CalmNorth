@@ -1,28 +1,39 @@
-## IN DEV
+## 0.5.0
 
-Actually hold back mods from updates
-Customized Main Menu
+NEW MAIN MENU
+Re added Connected Textures Mod as it was unintentionally removed
+Updated Forge 40.1.41 -> 40.1.54
 
 Updated Mods:
 
+- Applied Energistics 2 11.1.3 -> 11.1.4
 - Applied Energistics 2 Wireless Terminals 11.1.2 -> 11.1.3
 - Architectury API 4.5.75 -> 4.5.76
-- Ars Elemental 0.4.9.5 -> 0.4.9.7
-- Ars Nouveau 2.6.0 -> 2.6.1
+- Ars Elemental 0.4.9.5 -> 0.4.9.7.3
+- Ars Nouveau 2.6.0 -> 2.6.3
 - Bedspreads 5.1.0.5 -> 5.1.2.0
+- Botania 433 -> 434
 - Chisels & Bits 1.2.101 -> 1.2.108
 - Connected Glass 1.1.3a -> 1.1.4
+- Controlling 9.0+20 -> 9.0+21
+- Cucumber 5.1.1 -> 5.1.2
+- Enchantment Descriptions 10.0.4 -> 10.0.5
 - Extreme Reactors 2.0.49 -> 2.0.51
 - Farmer's Respite 1.2.0 -> 1.3.0
 - GeckoLib 3.0.27 -> 3.0.28
 - KubeJS 1802.5.4-build.506 -> 1802.5.4-build.510
 - MineColonies 1.0.860-ALPHA -> 1.0.872-BETA
 - Mysterious Mountain Lib 1.0.2 -> 1.0.5
+- MythicBotany 2.1.8 -> 2.1.9
 - Nature's Compass 1.9.5 -> 1.9.7
+- Neat 30 -> 31
+- Patchouli 70 -> 71.1
 - Pretty Pipes 1.12.3 -> 1.12.5
 - ProbeJS 3.0.5 -> 3.1.5
-- Structure Gel API 2.4.4 -> 2.4.5
+- Structure Gel API 2.4.4 -> 2.4.6
 - Supplementaries 1.4.6 -> 1.4.7
+- Xaero's World Map 1.24.0 -> 1.25.1
+- YUNG's Better Desert Temples 1.1.0 -> 1.2
 - YUNG's Better Mineshafts 2.1.4 -> 2.2
 - ZeroCore 2 2.1.19 -> 2.1.22
 

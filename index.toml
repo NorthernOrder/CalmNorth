@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "7b861a0ac4bf19d568b59d6d439169b932c8582fc9a7c4e4d98eb46b6a520c93"
+hash = "7c688cf5fdea54957e1366eb5411e1d45b929385c4d855ff55d6672e22f1bf20"
 metafile = true
 
 [[files]]
@@ -304,8 +304,8 @@ hash = "cf6ffc87b51f51c1bf503ab9b576f26990e5dbc6c880fbb90e31fab640ca419b"
 metafile = true
 
 [[files]]
-file = "mods/ars-elemental-elemental-spell-foci.pw.toml"
-hash = "b5f8915a41b5c51e106efe2deecd21acef236f04ffb101eaf7d02e9d2192cb25"
+file = "mods/ars-elemental.pw.toml"
+hash = "15753844d886bb16658200f956f3ca79dd8abe48ff8d73a8513356472398c90e"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "4dd44fcd973c2ecf528ace369e8922b30b182d2c8783624c3ff3fb491e19582a"
+hash = "3714d8746ab0efc4b0e6777eb11f7ca9ed42f9038bad019a8ef743663632e90d"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "81ad4e56179d918acb94960a2c6bf569715fe564c49b6b51076b590d3853dc9b"
+hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "23d42c3cbba7d75008cd3e7c15d347fac29a97bcb832d9768d75e7a5a457cc09"
+hash = "f25e761800b8b0844519ebb4f2a3aa2faef744212fcc250a9301b592cf0f0e91"
 metafile = true
 
 [[files]]
@@ -574,8 +574,13 @@ hash = "831f7d8e77b64e78a638bc9dee0bdfe07b34d96cff91f976d91141f335088de1"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "69b1d8662dcd3faffef4d75fadb0b6057018e591538fc6e4bbad22ac42808ac0"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
-hash = "7e74b2c44dc50242a8772415ba4c38e328923cab3b1148f6e146cc518bfe8927"
+hash = "0e0d61bc01ac103f4aa61d9f37f771889dab3e01a1184bfa58dd34f069ccabba"
 metafile = true
 
 [[files]]
@@ -670,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "73d644b07a288484efb86cd033389a79a21664381932aa429cfd97913c4d91c9"
+hash = "0f2c61de3d5e544dc9d6b52749c61cbb1322568cdcd8eb18721063a4387b57eb"
 metafile = true
 
 [[files]]
@@ -1085,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicbotany.pw.toml"
-hash = "17fa774f137fa594e8d5c32aa34aff7c52054e0e5052e6d5da3588e9917d206b"
+hash = "c611bb417938efba748983cb749efa7970df9633450bc0d908f94e8ddedf187b"
 metafile = true
 
 [[files]]
@@ -1100,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "7b9561549d90b44d769749e0fc7d72d1290b8369a33d38960ef7d6c2475a2b4b"
+hash = "961a956df524c3509c02a21ad94d4220bfddd42f5242512a0910dce5fa8c75d8"
 metafile = true
 
 [[files]]
@@ -1160,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
@@ -1365,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "a5e6263559ffaff23c2cf97b917176cf1d6f90837340e876a53c42f41a611d78"
+hash = "43ee89cb0bc5b569bd804db7af32f128958ef292908014fe7673c1f147fae542"
 metafile = true
 
 [[files]]
@@ -1570,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
+hash = "1f8cc9461ca4df22deffc40d785cfde26f4e04e1a2759601d4638d84ceaa8f38"
 metafile = true
 
 [[files]]
@@ -1580,7 +1585,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "0be5d3fb007d5192ac63f94800ee80b4a69e3ff3451482bb02a4b82fe4fb3cb2"
+hash = "5d6b3b21f8bd3aa4e579f57fa0b305206f53a7d83c9888a990d7d49ccff08b1e"
 metafile = true
 
 [[files]]
