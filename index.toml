@@ -152,6 +152,10 @@ file = "kubejs/assets/calmnorth/textures/widgets.png"
 hash = "09a1571b4e6d17334bc667d7555f132523d2f1d125d2138d56457468498d8881"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "ea57c0633cd391080d85fffdc630c2fe6da6f1be48545c4a8147c82d8f6c3a1b"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "ce2a596d81ca16010c8207467fff98c40d7ec8ba6c9dd853a63403e66c259c26"
 
