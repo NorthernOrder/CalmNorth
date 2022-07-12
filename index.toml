@@ -1273,11 +1273,6 @@ hash = "b208d392773b6d9bd39fe48fba1578d3a4c9e2db76b84c4cbd1028024e948096"
 metafile = true
 
 [[files]]
-file = "mods/schools-of-magic-second-semester.pw.toml"
-hash = "24eb629323dd772b27c1ea82adefeda7bf1bb27e7ab7ba8ab37ae5e50553e788"
-metafile = true
-
-[[files]]
 file = "mods/scuba-gear.pw.toml"
 hash = "13c0ca752f40664c392a67b1afb4f6475bba6c0025700559b6674348511a551c"
 metafile = true
