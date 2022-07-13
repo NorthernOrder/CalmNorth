@@ -1,3 +1,13 @@
+## 0.5.1.1
+
+HOTFIX
+
+Removed Schools of Magic: Second Semester as it was causing issues
+
+## 0.5.1
+
+Added localized names to Terralith and Incendium
+
 ## 0.5.0
 
 NEW MAIN MENU
