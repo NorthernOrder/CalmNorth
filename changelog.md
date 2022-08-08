@@ -1,3 +1,9 @@
+## 0.5.1.2
+
+HOTFIX
+
+Hopefully fixed chunkloaders
+
 ## 0.5.1.1
 
 HOTFIX
