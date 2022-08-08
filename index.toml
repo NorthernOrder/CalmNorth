@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "18ed2b955fe8f37fd2fc5652d8df8d631b0e1bb8d74563dece3fc5ef70906f55"
+hash = "13a49075b59daf886b736b6b3f3eebd360e4066e35a81a7397ab803caa252c61"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
@@ -185,7 +185,7 @@ hash = "42050f526f978c564e39d9698fc3c5a560ca403d0d6989388d4cd57289635a02"
 
 [[files]]
 file = "kubejs/client_scripts/ui.js"
-hash = "4d20bab491070e992b9368afe222843473121cfc3ad1b74838b27db87a71ded7"
+hash = "7165cba972f4ebf8a486d0a6bf02c016c9ea28e6f7bf15813e343fd175d84c36"
 
 [[files]]
 file = "kubejs/config/client.properties"
