@@ -102,7 +102,7 @@ onEvent("ui.main_menu", (event) => {
     // Modpack Name & Version
     ui.label((label) => {
       label.height = 10;
-      label.name = Text.of("Calm North 0.5.1.2").color(0x9aba9a);
+      label.name = Text.of("Calm North 0.5.1.3").color(0x9aba9a);
       label.x = 4;
       label.y = ui.height - 31;
     });

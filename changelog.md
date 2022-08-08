@@ -1,3 +1,9 @@
+## 0.5.1.3
+
+HOTFIX
+
+Changed the recipe of chunk loaders to something more automatable
+
 ## 0.5.1.2
 
 HOTFIX
@@ -173,7 +179,7 @@ Updated Mods:
 
 Many changes
 
-## 0.1.1-hf.1 
+## 0.1.1-hf.1
 
 Revert wild backport update
 
@@ -184,4 +190,3 @@ Updated mods
 ## 0.1.0
 
 Initial working version
-
