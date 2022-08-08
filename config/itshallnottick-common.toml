@@ -14,7 +14,7 @@
 	#You can also use a wildcard after modid (modid:*)
 	#Example list for a modpack
 	#entityIgnoreList = ["minecraft:wither","minecraft:phantom","minecraft:ender_dragon", "minecraft:elder_guardian", "minecraft:player", "botania:*", "create:*", "ftbic:*", "immersiveengineering:*", "ae2:*", "littlelogistics:*", "tiab:*"]
-	entityIgnoreList = ["minecraft:wither", "minecraft:phantom", "minecraft:ender_dragon", "minecraft:elder_guardian", "minecraft:player", "botania:*", "create:*", "ftbic:*", "ae2:*", "littlelogistics:*", "tiab:*", "minecolonies:*"]
+	entityIgnoreList = ["minecraft:wither", "minecraft:phantom", "minecraft:ender_dragon", "minecraft:elder_guardian", "minecraft:player", "botania:*", "create:*", "ftbic:*", "ae2:*", "littlelogistics:*", "tiab:*", "minecolonies:*", "moreminecarts:*"]
 	#Minimum number of players before mod is enabled
 	minPlayers = 2
 

@@ -50,7 +50,7 @@ hash = "595b07f4d08c0343cb07bbf9cca13ab8e86ea39576200b1bf22c2f537832028a"
 
 [[files]]
 file = "config/itshallnottick-common.toml"
-hash = "9b9402e6385f61277aa2b5a400875d3fd7eef96596e877fe6ad81d0155937853"
+hash = "cf0d211c51134e1979fb512f424ec6f93a9bf1d8efba7ac068ab87a95f448af5"
 
 [[files]]
 file = "config/jei-client.toml"
